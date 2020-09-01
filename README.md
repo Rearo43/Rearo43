@@ -3,6 +3,8 @@
 <!--
 **Rearo43/Rearo43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img align="left" alt="Rearo43 Stats" src="https://github-readme-stats.vercel.app/api?username=Rearo43&show_icons=true&hide_border=true"/>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
